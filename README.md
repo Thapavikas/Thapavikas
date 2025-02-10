@@ -9,14 +9,16 @@
 
 - 👨‍💻 All of my projects are available at [https://vikas-portfolio-omega.vercel.app/](https://vikas-portfolio-omega.vercel.app/)
 
-- 💬 Ask me about **React**
+- Linkedin [https://www.linkedin.com/in/vikas-b-2395b6265/](https://www.linkedin.com/in/vikas-b-2395b6265/)
 
-- 📫 How to reach me **thapavikas@gmail.com**
+- 💬 Ask me about **React,HTML,CSS,JavaScript**
+
+- 📫 How to reach me **thapavikas79@gmail.com**
+
+- leetcode [https://leetcode.com/u/vikasthapa433/](https://leetcode.com/u/vikasthapa433/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vikas-b-2395b6265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikas-b-2395b6265/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vikasthapa433/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vikasthapa433/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
