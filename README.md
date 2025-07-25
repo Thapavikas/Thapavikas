@@ -68,6 +68,15 @@
 </p>
 
 ---
+
+## 📅 Coding Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thapavikas&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🎯 Currently Learning
 
 - ⚙️ Full-stack development (MERN)
@@ -89,7 +98,6 @@
 ## 🔥 Fun Fact
 
 > Dark mode isn't just a theme, it's a lifestyle 😎  
-> And yes, I do obsess over perfect pixel alignment 🎯
 
 ---
 
