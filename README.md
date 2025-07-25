@@ -37,15 +37,15 @@
 ## 🛠️ Skills & Tools
 
 <div align="center">
-  
-| Languages | Frontend | Backend | Tools & Platforms |
-|----------|----------|---------|--------------------|
-| ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) |  | ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,java,c,git,docker" />
 </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,vscode,github,bash,redux" />
+</p>
+
+> 🧠 Always exploring new techs and frameworks!
+
 
 ---
 
@@ -60,7 +60,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thapavikas&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thapavikas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -68,18 +68,28 @@
 </p>
 
 ---
+## 🎯 Currently Learning
 
-> 🔁 Theme-aware stats and badges make your profile **look clean in both light and dark modes** automatically.
-
----
-
-## 💡 Tip
-
-To make this look even more **interactive and animated**, consider adding:
-- `GitHub activity graph` (e.g., from `ashutosh00710/github-readme-activity-graph`)
-- `Wakatime stats` if you use it
-- `Dynamic portfolio cards` for featured projects
+- ⚙️ Full-stack development (MERN)
+- ✨ UI Animations with Framer Motion
+- 🧩 TypeScript in large-scale apps
+- 🛠️ Docker for development workflows
 
 ---
 
-Let me know if you’d like this auto-deployed to your GitHub README or want a `README.md` file copy!
+## 💬 Ask Me About
+
+- Modern Frontend Architecture  
+- UI Libraries & CSS Utilities  
+- React & State Management  
+- Clean code and best practices  
+
+---
+
+## 🔥 Fun Fact
+
+> Dark mode isn't just a theme, it's a lifestyle 😎  
+> And yes, I do obsess over perfect pixel alignment 🎯
+
+---
+
