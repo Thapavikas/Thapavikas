@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vikas B</h1>
-<h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
+<h1 align="center">Hi 👋 I'm Vikas B</h1>
+<h3 align="center">Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thapavikas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,32 +9,33 @@
 
 ## 🧑‍💻 About Me
 
-- 🎯 I specialize in **Frontend Development** and love building clean, interactive UIs.
-- 🚀 I enjoy working with technologies like **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**.
-- 🌱 Currently exploring **backend development** with **Node.js** and **MongoDB**.
-- 📂 All my projects are available here:  
-  👉 [My Portfolio](https://vikas-b-portfolio.vercel.app/)
-- 📄 Want to know my experience?  
-  👉 [My Resume](https://drive.google.com/drive/folders/1PfISNRBYpDjBlq7NZoMToQPuFmATr4Rz?usp=drive_link)
-- 📬 How to reach me:  
-  👉 **thapavikas79@gmail.com**
+I’m a **frontend-focused developer** passionate about building clean, intuitive, and high-performance web experiences.  
+I love working with modern UI libraries, scalable architecture, and smooth user interactions.
+
+- 💡 Expertise in **React**, **Next.js**, **Tailwind CSS**, **TypeScript**
+- 🔧 Exploring backend with **Node.js** & **MongoDB**
+- 🌐 Portfolio:  
+  👉 [vikas-b-portfolio.vercel.app](https://vikas-b-portfolio.vercel.app/)
+- 📄 Resume:  
+  👉 [View Here](https://drive.google.com/drive/folders/1PfISNRBYpDjBlq7NZoMToQPuFmATr4Rz?usp=drive_link)
+- 📬 Contact: **thapavikas79@gmail.com**
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vikas-b-2395b6265/" target="_blank">
-    <img src="https://img.shields.io/badge/-Vikas%20B-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-Vikas%20B-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://leetcode.com/u/vikasthapa433/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,java,c,git,docker" />
@@ -44,35 +45,31 @@
   <img src="https://skillicons.dev/icons?i=figma,vscode,github,bash,redux" />
 </p>
 
-> 🧠 Always exploring new techs and frameworks!
+---
 
+# 🌱 My Developer Journey
+
+### 🚀 2022 — Getting Started  
+- Learned HTML & CSS  
+- Built first landing pages  
+
+### 🧭 2023 — Growing Skills  
+- JavaScript + React  
+- Multiple UI-focused projects  
+
+### 💼 2024 — Leveling Up  
+- Next.js + TypeScript  
+- Built portfolio & real-world apps  
+- Started backend (Node.js, MongoDB)  
+
+### 🔥 2025 — Full-Stack Mindset  
+- MERN applications  
+- Framer Motion animations  
+- Better architecture & clean code  
 
 ---
 
-# 🌈 My Developer Journey (Timeline)
-
-### 🚀 2022 — Started coding  
-• Learned basic HTML/CSS  
-• Built my first landing page  
-
-### 🧭 2023 — Became serious  
-• JavaScript + React  
-• Made multiple UI projects  
-• Started understanding real-world frontend  
-
-### 💼 2024 — Leveling up  
-• Learned Next.js + TypeScript  
-• Built portfolio & real applications  
-• Started backend (Node.js, MongoDB)  
-
-### 🔥 2025 — Becoming Full-Stack  
-• MERN apps  
-• Framer Motion animations  
-• Better architecture & clean code  
-
----
-
-## 📅 Coding Streak
+## 📅 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=thapavikas&theme=dark&hide_border=false" alt="GitHub Streak" />
@@ -82,25 +79,22 @@
 
 ## 🎯 Currently Learning
 
-- ⚙️ Full-stack development (MERN)
-- ✨ UI Animations with Framer Motion
-- 🧩 TypeScript in large-scale apps
-- 🛠️ Docker for development workflows
+- Full-Stack (MERN)
+- Framer Motion & UI animations
+- TypeScript for scalable apps
+- Docker workflows
 
 ---
 
 ## 💬 Ask Me About
 
-- Modern Frontend Architecture  
-- UI Libraries & CSS Utilities  
-- React & State Management  
-- Clean code and best practices  
+- Modern frontend architecture  
+- React ecosystem & state management  
+- UI/UX implementation  
+- Clean and maintainable code  
 
 ---
 
-## 🔥 Fun Fact
+## 🔥 Fun Fact  
 
-> Dark mode isn't just a theme, it's a lifestyle 😎  
-
----
-
+> Dark mode isn’t a theme — it’s a vibe 😎
