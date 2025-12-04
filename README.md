@@ -49,23 +49,26 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🌈 My Developer Journey (Timeline)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thapavikas&theme=gruvbox&margin-w=10&margin-h=15&row=1&column=7" alt="trophies" />
-</p>
+### 🚀 2022 — Started coding  
+• Learned basic HTML/CSS  
+• Built my first landing page  
 
----
+### 🧭 2023 — Became serious  
+• JavaScript + React  
+• Made multiple UI projects  
+• Started understanding real-world frontend  
 
-## 📊 GitHub Stats
+### 💼 2024 — Leveling up  
+• Learned Next.js + TypeScript  
+• Built portfolio & real applications  
+• Started backend (Node.js, MongoDB)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thapavikas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thapavikas&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+### 🔥 2025 — Becoming Full-Stack  
+• MERN apps  
+• Framer Motion animations  
+• Better architecture & clean code  
 
 ---
 
