@@ -1,24 +1,33 @@
-<h1 align="center">Hi 👋 I'm Vikas B</h1>
-<h3 align="center">Frontend Developer from India 🇮🇳</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:00c6ff&height=210&section=header&text=Hi%20👋%20I'm%20Vikas%20B&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Frontend%20(React)%20|%20DevOps%20Learner&descAlignY=65" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thapavikas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=thapavikas&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/thapavikas?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/thapavikas?label=Stars&style=flat&color=0e75b6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Expert-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-Advanced-000000?logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/DevOps-Learning-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-Improving-success" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I’m a **frontend-focused developer** passionate about building clean, intuitive, and high-performance web experiences.  
-I love working with modern UI libraries, scalable architecture, and smooth user interactions.
+I’m a **Software Engineer** passionate about building **clean user interfaces**, **scalable frontend systems**, and **high-performance web applications**.
 
-- 💡 Expertise in **React**, **Next.js**, **Tailwind CSS**, **TypeScript**
-- 🔧 Exploring backend with **Node.js** & **MongoDB**
-- 🌐 Portfolio:  
-  👉 [vikas-b-portfolio.vercel.app](https://vikas-b-portfolio.vercel.app/)
-- 📄 Resume:  
-  👉 [View Here](https://drive.google.com/drive/folders/1PfISNRBYpDjBlq7NZoMToQPuFmATr4Rz?usp=drive_link)
-- 📬 Contact: **thapavikas79@gmail.com**
+I focus on **production-ready code**, best practices, and continuous learning in **System Design and DevOps**.
+
+- 💡 Strong in **React, Next.js, TypeScript, Tailwind CSS**
+- 🔧 Backend experience with **Java, Node.js, SQL, NoSQL**
+- ⚙️ Learning **CI/CD, Docker, Kubernetes**
+- 🧠 Preparing for **product-based company interviews**
+- 🚀 Believe in **ownership, clean code, and bias for action**
 
 ---
 
