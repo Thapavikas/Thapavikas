@@ -19,15 +19,16 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Software Engineer** passionate about building **clean user interfaces**, **scalable frontend systems**, and **high-performance web applications**.
+I’m a **Software Engineer** with experience across **frontend and backend systems**, and deeper expertise in **modern frontend engineering**.
 
-I focus on **production-ready code**, best practices, and continuous learning in **System Design and DevOps**.
+I build **scalable, maintainable applications** by focusing on clean architecture, efficient data flow, and great user experience.
 
-- 💡 Strong in **React, Next.js, TypeScript, Tailwind CSS**
-- 🔧 Backend experience with **Java, Node.js, SQL, NoSQL**
-- ⚙️ Learning **CI/CD, Docker, Kubernetes**
-- 🧠 Preparing for **product-based company interviews**
-- 🚀 Believe in **ownership, clean code, and bias for action**
+- **React, Next.js, TypeScript**
+- **Node.js, Java, SQL, NoSQL**
+- **Tailwind CSS, Framer Motion**
+- **Docker, CI/CD (fundamentals)**
+
+I believe in **ownership, simplicity, and building software that lasts**.
 
 ---
 
@@ -35,10 +36,10 @@ I focus on **production-ready code**, best practices, and continuous learning in
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vikas-b-2395b6265/" target="_blank">
-    <img src="https://img.shields.io/badge/-Vikas%20B-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Vikas%20B-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://leetcode.com/u/vikasthapa433/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
@@ -46,64 +47,88 @@ I focus on **production-ready code**, best practices, and continuous learning in
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,java,c,git,docker" />
-</div>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,github,bash,redux" />
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,bash,figma,vscode" />
 </p>
 
 ---
 
-# 🌱 My Developer Journey
+## 🧠 Engineering Focus
 
-### 🚀 2022 — Getting Started  
-- Learned HTML & CSS  
-- Built first landing pages  
+I’m a **Software Development Engineer (SDE)** with experience across **frontend and backend systems**, and a stronger depth in frontend engineering.
 
-### 🧭 2023 — Growing Skills  
-- JavaScript + React  
-- Multiple UI-focused projects  
+I focus on building **end-to-end features** — from API design to UI — while keeping performance, scalability, and maintainability in mind.
 
-### 💼 2024 — Leveling Up  
-- Next.js + TypeScript  
-- Built portfolio & real-world apps  
-- Started backend (Node.js, MongoDB)  
-
-### 🔥 2025 — Full-Stack Mindset  
-- MERN applications  
-- Framer Motion animations  
-- Better architecture & clean code  
+I care about:
+- Writing **clean, testable, production-ready code**
+- Designing **scalable frontend architectures**
+- Building **reliable backend services & APIs**
+- Understanding **data flow, failure modes, and system behavior**
 
 ---
 
-## 📅 GitHub Streak
+## ⚙️ How I Build End-to-End Features
+
+- Start with **requirements and user flows**
+- Design **API contracts & data models**
+- Implement **backend services** (Node.js / Java)
+- Build **frontend UI & state management**
+- Handle **error cases, loading states, and edge cases**
+- Think about **performance, security, and scalability**
+
+I take **ownership from backend to frontend**, not just UI delivery.
+
+---
+
+## 🔧 Backend Experience
+
+- REST API development using **Node.js / Express**
+- Backend logic in **Java**
+- Working with **SQL & NoSQL databases**
+- Authentication, authorization, and validations
+- Understanding **system design basics** (scaling, caching, failures)
+
+---
+
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thapavikas&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=thapavikas&theme=dark&hide_border=false" />
 </p>
 
 ---
 
 ## 🎯 Currently Learning
 
-- Full-Stack (MERN)
-- Framer Motion & UI animations
-- TypeScript for scalable apps
-- Docker workflows
+- Scalable frontend architecture
+- System design basics for frontend engineers
+- Docker & CI/CD pipelines
+- Advanced TypeScript patterns
 
 ---
 
 ## 💬 Ask Me About
 
-- Modern frontend architecture  
-- React ecosystem & state management  
-- UI/UX implementation  
-- Clean and maintainable code  
+- React & Next.js best practices
+- Frontend system design
+- UI performance optimization
+- Clean and maintainable codebases
 
 ---
 
-## 🔥 Fun Fact  
+## 🔥 Fun Fact
 
-> Dark mode isn’t a theme — it’s a vibe 😎
+> Dark mode isn’t a theme — it’s a lifestyle 😎
+
