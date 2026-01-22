@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-Expert-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-Advanced-000000?logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/React-Strong-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-Learning-000000?logo=nextdotjs" />
   <img src="https://img.shields.io/badge/DevOps-Learning-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/System%20Design-Improving-success" />
 </p>
