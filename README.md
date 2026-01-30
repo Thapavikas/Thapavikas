@@ -54,12 +54,12 @@ I believe in **ownership, simplicity, and building software that lasts**.
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,sql" />
 </p>
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,bash,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,bash,figma,vscode,aws" />
 </p>
 
 ---
