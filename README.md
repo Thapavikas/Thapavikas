@@ -54,7 +54,7 @@ I believe in **ownership, simplicity, and building software that lasts**.
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,sql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,mysql" />
 </p>
 
 ### DevOps & Tools
